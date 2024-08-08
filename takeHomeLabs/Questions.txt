@@ -1,0 +1,24 @@
+Take Home lab 1
+
+Write your version of the strlen() function
+● Using a for-loop.
+● Using a while-loop.
+
+Learning
+Look up what a string in C is.
+Look up what EOF is.
+
+
+
+
+
+Take Home lab 2
+
+Write a function to pass a 2*3 array and
+1. Count the number of odd elements.
+2. Change the last element of every row to
+zero.
+3. Print the changed array back in main.
+
+Learning
+Passing arrays to functions.
